@@ -14,8 +14,9 @@ Setup environment [Python for AI #1: Dev Environment Setup - YouTube](https://ww
 ## How to Install
 
 1. Clone or Download Repository
-2. bash pip install -r requirements.txt
-
+2. ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 Run Script number_plate.py
