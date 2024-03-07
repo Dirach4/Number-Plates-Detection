@@ -3,6 +3,7 @@ This project demonstrates license plate detection using OpenCV, a popular comput
 
 ## Source
 [YouTube](https://www.youtube.com/watch?v=ltpnWBBT7NI&t=344s)
+
 [GitHub](https://github.com/entbappy/Car-Number-Plates-Detection)
 
 ## Requirements
