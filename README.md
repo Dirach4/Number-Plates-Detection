@@ -2,9 +2,9 @@
 This project demonstrates license plate detection using OpenCV, a popular computer vision library, and Python. The project utilizes a pre-trained Haar cascade classifier for detecting license plates in Real Time using Webcam.
 
 ## Source
-[YouTube](https://www.youtube.com/watch?v=ltpnWBBT7NI&t=344s)
+1. YouTube [Real Time Car Number Plates Extraction in 30 Minutes 🔥| OpenCV Python | Computer Vision | EasyOCR](https://www.youtube.com/watch?v=ltpnWBBT7NI&t=344s)
 
-[GitHub](https://github.com/entbappy/Car-Number-Plates-Detection)
+2. GitHub[Car-Number-Plates-Detection](https://github.com/entbappy/Car-Number-Plates-Detection)
 
 ## Requirements
 
