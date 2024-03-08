@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 import easyocr
 from IPython.display import Image
 
