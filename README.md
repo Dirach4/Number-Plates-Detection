@@ -23,3 +23,14 @@ Setup environment [Python for AI #1: Dev Environment Setup - YouTube](https://ww
 Run Script number_plate.py
 Press 's' to save the plate and look at the output at terminal
 Press 'Ctrl+c' at terminal to exit the application.
+
+## Eror Handling
+Re install opencv-python if it has error with opencv
+
+```bash
+   pip uninstall opencv-python
+   ```
+   and
+```bash
+   pip install opencv-python
+   ```
